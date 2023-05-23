@@ -1,0 +1,9 @@
+.display {
+    width: 90%;
+    height: 40px;
+    background-color:aqua;
+    margin-bottom: 5px;
+    font-size: 35px;
+    text-align: right;
+    padding: 5px;
+  }
